@@ -1,0 +1,8 @@
+prefix=/home/janderson/movimento/movimento/devel
+
+Name: head_move
+Description: Description of head_move
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

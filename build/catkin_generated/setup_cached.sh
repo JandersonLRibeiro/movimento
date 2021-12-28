@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/janderson/movimento/movimento/devel:$CMAKE_PREFIX_PATH"
 export PWD='/home/janderson/movimento/movimento/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/janderson/movimento/movimento/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/janderson/movimento/movimento/src:$ROS_PACKAGE_PATH"
